@@ -57,6 +57,8 @@ Here are some screenshots to give you a glimpse of the site
 
 ![image](https://github.com/user-attachments/assets/56626323-55cd-403a-9838-554820a62312)
 
+![image](https://github.com/user-attachments/assets/e6f37885-e335-4f5f-a0fe-ef8975c09624)
+
 ![image](https://github.com/user-attachments/assets/648b03ed-6714-43a5-bcca-5b513c51d444)
 
 ![image](https://github.com/user-attachments/assets/1eeb4a41-2883-4bd2-8d4d-557c8b360e1c)
