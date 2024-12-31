@@ -67,3 +67,5 @@ Here are some screenshots to give you a glimpse of the site
 
 ![image](https://github.com/user-attachments/assets/4e89971e-b09f-4279-a8b9-660d23b51766)
 
+![image](https://github.com/user-attachments/assets/b2be87f6-88b9-4276-ae46-9b37721fee6d)
+
