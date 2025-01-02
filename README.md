@@ -22,42 +22,42 @@ I'll leave a summary of everything I did and used in the project below so you ca
 **API Test**: Postman
 ## Features
 
-Authentication and Account Management:
-
+-Authentication and Account Management:
 Login, register, password change, password recovery, and password reset.
-E-commerce:
 
+-E-commerce:
 Product pagination with lazy loading.
 Product filters by gender, color, size, and category.
 Product sorting by price (low-to-high and high-to-low).
 Stock control.
 Product reviews.
-Shopping Cart:
 
+-Shopping Cart:
 Add and remove items.
 Automatic quantity adjustment based on availability.
 Removal of items with unavailable stock.
-Orders:
 
+-Orders:
 Order creation and real-time payment status updates via WebSockets.
-Addresses:
 
+-Addresses:
 Address creation, editing, deletion, and ZIP code search.
-Favorites:
 
+-Favorites:
 Add products to favorites and access them in a dedicated section.
-Responsive Design:
 
+-Responsive Design:
 Optimized user experience across devices.
-Administration:
 
+-Administration:
 Admin dashboard for full system management, including order insights.
+
 Technical Highlights
 
-Real-Time Updates: Implemented via WebSockets to ensure seamless synchronization of payment status.
-Scalable Infrastructure: Leveraging AWS and Docker for scalability and easy maintenance.
-Modern Design: Styled with Tailwind CSS, providing an attractive and responsive layout.
-This system combines performance, functionality, and usability to deliver a complete and efficient e-commerce solution.
+-Real-Time Updates: Implemented via WebSockets to ensure seamless synchronization of payment status.
+-Scalable Infrastructure: Leveraging AWS and Docker for scalability and easy maintenance.
+-Modern Design: Styled with Tailwind CSS, providing an attractive and responsive layout.
+-This system combines performance, functionality, and usability to deliver a complete and efficient e-commerce solution.
 
 ## Deploy
 
