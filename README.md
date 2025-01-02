@@ -22,30 +22,30 @@ I'll leave a summary of everything I did and used in the project below so you ca
 **API Test**: Postman
 ## Features
 
-Login
-Register
-Change password
-Forgot password
-Reset password
-Real-time update of payment status (Socket)
-Product pagination (lazy loading)
-Reviews for products
-Product filter by gender, color, size and category
-Sort products by price high-low and low-high
-Stock control
-Add Item to Cart
-Remove Cart Item from Cart
-Increase and decrease Cart Item quantity
-Automatic adjustment of quantity if the item was added when it had the quantity but is no longer available
-Remove Cart Item if quantity available is 0
-Make Orders
-Address creation, editing and deletion
-CEP search
-Favorite product
-Favorites section for products you want
-Responsive design
-Admin dashboard to manage all system
-Orders Insights
+- Login
+- Register
+- Change password
+- Forgot password
+- Reset password
+- Real-time update of payment status (Socket)
+- Product pagination (lazy loading)
+- Reviews for products
+- Product filter by gender, color, size and category
+- Sort products by price high-low and low-high
+- Stock control
+- Add Item to Cart
+- Remove Cart Item from Cart
+- Increase and decrease Cart Item quantity
+- Automatic adjustment of quantity if the item was added when it had the quantity but is no longer available
+- Remove Cart Item if quantity available is 0
+- Make Orders
+- Address creation, editing and deletion
+- CEP search
+- Favorite product
+- Favorites section for products you want
+- Responsive design
+- Admin dashboard to manage all system
+- Orders Insights
 
 ## Deploy
 
