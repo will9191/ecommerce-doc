@@ -1,5 +1,6 @@
 
-# W Clothing
+![image](https://github.com/user-attachments/assets/c16321e3-cf0b-4dc6-865b-ddc8e497a20d)
+
 
 Hi everyone, this is the documentation of the W Clothing ecommerce website.
 
