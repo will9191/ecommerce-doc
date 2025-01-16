@@ -53,7 +53,15 @@ To access this project and see more you can access this link:
 
 http://wclothing.s3-website.us-east-2.amazonaws.com
 ## Screenshots
-Here are some screenshots to give you a glimpse of the site
+Here are some screenshots to give you a glimpse of the site and the code
+
+![image](https://github.com/user-attachments/assets/e01dcfea-a824-462d-a8a8-2a6d40dd318b)
+
+![image](https://github.com/user-attachments/assets/0e2dc870-9530-4cbf-975b-0449b6f36a52)
+
+![image](https://github.com/user-attachments/assets/da88adca-b8e9-4069-84ae-460170b001b8)
+
+![image](https://github.com/user-attachments/assets/1a1ce2bc-f270-4533-894e-2e360112a4a7)
 
 ![image](https://github.com/user-attachments/assets/78cac183-96d4-4466-a824-bf2c641a9077)
 
